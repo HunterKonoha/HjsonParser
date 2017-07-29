@@ -55,5 +55,6 @@
     <None Include="src\Value.inl">
       <Filter>ヘッダー ファイル</Filter>
     </None>
+    <None Include="Readme.md" />
   </ItemGroup>
 </Project>
