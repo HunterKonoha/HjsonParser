@@ -153,9 +153,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="src\CharacterSet.h" />
     <ClInclude Include="src\detail\Config.h" />
     <ClInclude Include="src\detail\GrammarTemplate.h" />
